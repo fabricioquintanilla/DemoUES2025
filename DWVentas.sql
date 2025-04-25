@@ -85,13 +85,3 @@ go
 alter table FactVentas add constraint Tiempo_Ventas foreign key
 (TiempoKey) references DimTiempo(TiempoKey)
 go
-
-
-
-
-
-
-
-
-
-
